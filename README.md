@@ -1,5 +1,9 @@
 # my_fit_buddy
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 MyFitBuddy, « la prise de notes sans prise de tête ».
 
 1) Planifiez vos séances personnalisées en choisissant vos exercices, le poids, le nombre de répétitions et les temps de repos.
